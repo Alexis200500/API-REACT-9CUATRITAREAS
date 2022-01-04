@@ -1,0 +1,66 @@
+#padre5 {
+    background-color: #60a3bc;
+    padding: 10px;
+    border-radius: 50px;
+    margin: 10px;
+
+
+}
+
+#hijo5 {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #9AECDB;
+    padding: 10px;
+    width: 590px;
+    text-align: center;
+    height: auto;
+ 
+}
+
+table{
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    border:1px;
+}
+
+td{
+    height:50px;
+    
+}
+
+#campo{
+    text-align: right;
+}
+
+ #campos{
+    text-align: left;
+    padding-left: 5px;
+}
+
+
+span{
+    color: red;
+}
+
+#paciente{
+    height: 300px;
+    width: 300px;
+}
+#paciente:hover{
+    border-collapse: collapse;
+    background-color: red;
+}
+
+#detallepaciente{
+    text-align: justify;
+    padding: 10px;
+    background-color:#e74c3c;
+    
+}
+
+#detallepaciente:hover{
+    background-color: teal;
+    color: white;
+}

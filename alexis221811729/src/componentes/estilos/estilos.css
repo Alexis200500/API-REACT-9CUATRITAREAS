@@ -1,0 +1,298 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* .contenido {
+    background-color: #3867d6;
+    border-radius:50px;
+    margin-top: 10px;
+    width: auto;
+    height: auto;
+    padding: 40px;
+    border-style: solid;
+    border-color: red;
+}
+
+.foto {
+    float: right;
+    border-style: solid;
+    border-color: red;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10%;
+    width: 300px;
+    height: 440px;
+    background-color: transparent;
+    text-align: center;
+
+
+}
+
+.fotito {
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+}
+
+.foto p{
+    background-image: url("https://image.freepik.com/foto-gratis/fondo-textura-madera-marron-claro_53876-75016.jpg");
+    margin-block-end: 10px;
+    margin-top: 10px;
+    width: 250px;
+    height: auto;
+    text-align: left;
+    padding: 5px;
+}
+
+
+.logo{
+    border-style: solid;
+    border-color: red;  
+  
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 433px; 
+
+    
+}
+
+.logo p {
+    background-image: url("https://image.freepik.com/foto-gratis/fondo-textura-madera-marron-claro_53876-75016.jpg");
+    margin-top: 20px;
+    margin-left: 210px;
+    width: 450px;
+    height: auto;
+    text-align: left;
+    padding: 6px;
+}
+
+.logococa{
+    height: 200px;
+    width: 300px;
+    padding: auto;
+    box-shadow: 5px 5px 7px 7px #000;
+}
+
+.informacion{
+    background-color: white;
+    border-style: solid;
+    border-color: white; 
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 433px; 
+    border-style: solid;
+    border-color: red;  
+} */
+
+
+/* -----------------------------------------COMPONENTE LIBRE----------------------------------------- */
+
+/* .fondo{
+    background-color: #0a3d62;
+    border-radius:50px;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 90%;
+    height: 90%;
+    padding: 40px;
+    border-style: solid;
+    border-color: red;  
+   }
+
+.titulo{
+    background-color: #44bd32;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    width: auto;
+    height: auto;
+    text-align: center;
+    opacity: 0.7 ;    
+    border-style: solid;
+    border-color: red;  
+    font-family:cursive;
+}
+
+.imagen{
+    
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    width: auto;
+    height: auto;
+    text-align: center;
+    border-style: solid;
+    border-color: red;
+    margin: 10px;
+
+}
+
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 30px;
+
+}
+
+.div4{
+    border-style: solid;
+    color: white; 
+    padding: 20px;
+    text-align: center;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    border-style: solid;
+    border-color: red;  
+    font-family:serif;
+    background-image: url("https://image.freepik.com/vector-gratis/fondo-negro-foco-luz_1017-27230.jpg");
+  
+}
+ */
+
+/* --------------------------------------TAREA3-------------------------------------- */
+#titulo {
+    background-color: #2c3e50;
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    width: 550px;   
+    height: 60px;
+    text-align: center;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 30px;
+
+}
+
+#padre {
+    background-color: blue;
+    padding: 10px;
+    border-radius: 50px;
+    margin: 10px;
+
+}
+
+.hijo {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: red;
+    padding: 10px;
+    width: 690px;
+    text-align: center;
+    height: 200px;
+    margin-top: 10px;
+ 
+}
+
+
+
+img {
+    height: 130px;
+    width: 220px;
+}
+
+#imagen {
+    float: left;
+    margin-top: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+#informacion {
+    /* background-color: green; */
+    width: 410px;
+    color: white;
+    /* border-style: solid; */
+    /* border-color: white; */
+    padding: 20px;
+    text-align: left;
+    /* margin: ; */
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#detalle {
+    float: right;
+    margin-right: 20px;
+    margin-top: 0px;
+    
+}
+
+#informacion div {
+    margin-top: 10px;
+    margin-left: 100px;
+    background-color: green;
+    
+}
+
+
+/* Tarea 4 */
+.hijo4 {
+    background-color: red;
+    float: right;
+    padding: 10px;
+    margin-top: 50px;
+    margin-right: 210px;
+}
+
+#imagen4{
+    height: 100px;
+    padding: 30px;
+    margin-left: 200px;
+    margin-top: 20px;
+    /* margin-left: auto; */
+    margin-right: auto;   
+}
+
+#informacion4 {
+    background-color: green;
+    width: 510px;
+    color: white;
+    /* border-style: solid; */
+    /* border-color: white; */
+    padding: 20px;
+    text-align: left;
+    /* margin: ; */
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#padre5 {
+    background-color: #74b9ff;
+    padding: 100px;
+    border-radius: 50px;
+    margin: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+#foto{
+    height: 130px;
+    width: 220px;
+}
+
+#inicio{
+    background-color: red;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    width: 300px;
+    size: 10px;
+
+}
+
+h1{
+    color:black;
+}
